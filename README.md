@@ -45,11 +45,7 @@ To reproduce the analysis on your local machine, follow these steps:
 
 1.  Clone this GitHub repository to your local machine.
     
-2.  Ensure you have the necessary Python libraries installed. You can do this by running:
-    
-    bashCopy code
-    
-    `pip install -r requirements.txt` 
+2.  Ensure you have the necessary Python libraries installed.
     
 3.  Download the dataset from the Kaggle link provided and place it in the project directory.
     
